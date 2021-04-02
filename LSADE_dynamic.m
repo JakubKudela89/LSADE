@@ -1,4 +1,4 @@
-%% The following code executes the LSADE algorithm
+%% The following code executes the LSADE algorithm with dynamic rules and multiquadratic RBF surrogate
 %% The algorithm is written in a maximization form (there are quite a few wild -1s appearing apparently out of nowhere)
 %  The RBF surrogate model functions (rbf_build.m and rbf_predict.m) are from:
 %       SURROGATES Toolbox: FAC Viana, \SURROGATES Toolbox User's Guide,"
